@@ -1,20 +1,9 @@
 [
   {
-    "aktie": "YPF",
-    "ticker": "YPF",
-    "isin": "US9842451000",
-    "valueScore": 85,
-    "momentumScore": 78,
-    "qualitaet": 70,
-    "analysten": 65
-  },
-  {
-    "aktie": "VWDRY",
-    "ticker": "VWDRY",
-    "isin": "DK0061539921",
-    "valueScore": 77,
-    "momentumScore": 88,
-    "qualitaet": 68,
-    "analysten": 60
+    "ticker": "TSLA",
+    "value_rank": 100.0,
+    "momentum_rank": 100.0,
+    "quality_rank": 100.0,
+    "analyst_score": 3.0
   }
 ]
