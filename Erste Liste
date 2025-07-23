@@ -1,0 +1,20 @@
+[
+  {
+    "aktie": "YPF",
+    "ticker": "YPF",
+    "isin": "US9842451000",
+    "valueScore": 85,
+    "momentumScore": 78,
+    "qualitaet": 70,
+    "analysten": 65
+  },
+  {
+    "aktie": "VWDRY",
+    "ticker": "VWDRY",
+    "isin": "DK0061539921",
+    "valueScore": 77,
+    "momentumScore": 88,
+    "qualitaet": 68,
+    "analysten": 60
+  }
+]
